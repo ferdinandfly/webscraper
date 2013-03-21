@@ -70,4 +70,4 @@ Credits
 
 
 -----------------------------------------------------------------------------
-Copyright (c) 2010 David Heaton (dave@bit155.com)
+Copyright (c) 2013 TAN Hao (ferdinandfly@gmail.com)
