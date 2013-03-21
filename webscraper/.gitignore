@@ -1,0 +1,11 @@
+syntax:glob
+build
+*.pem
+.DS_Store
+target
+Icon?
+ehthumbs.db
+Thumbs.db
+*.crx
+*.zip
+pkg
